@@ -15,7 +15,7 @@ const info = {
     socials: {
         twitter: "https://x.com/srinivaspavan73",
 		github: "https://github.com/srinivaspavan73",
-		linkedin: "https://www.linkedin.com/in/bitra-pavan-kumar-8ba067226",
+		linkedin: "https://www.linkedin.com/in/bitrapavankumar",
 		instagram: "https://instagram.com/srinivaspavan73",
 		facebook: "https://www.facebook.com/bitra.pavan.351",
         telegram: "https://telegram.me/srinivaspavan73"

@@ -102,7 +102,7 @@ const info = {
             school: "Kalpataru Institute of Technology, Tiptur",
             degree: "B.E in Electronics and Communication Engineering",
             // year: "2021 - Present",
-            image: "../kitlogop.jpg"
+            image: "../kitclg.jpg"
         }
     ],
 

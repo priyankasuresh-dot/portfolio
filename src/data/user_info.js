@@ -9,7 +9,7 @@ const info = {
     },
 
     resume: {
-        link: "D:\vspriya\portfolio\public\Priyanka_resume.pdf" // Replace with your actual resume URL
+        link: "../Priyanka_resume.pdf" // Replace with your actual resume URL
     },
 
     socials: {

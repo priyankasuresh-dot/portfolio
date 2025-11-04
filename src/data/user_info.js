@@ -103,7 +103,19 @@ const info = {
             degree: "B.E in Electronics and Communication Engineering",
             // year: "2021 - Present",
             image: "../kitclg.jpg"
-        }
+        },
+        {
+            school: "Government PU collage for Boys,Tiptur ",
+             degree: "KSPUC",
+             year: "2020 - 2022",
+            image: "../puclg.jpg"
+        },
+         {
+            school: "N S M Girls High School,Tiptur ",
+             degree: "High School",
+             year: "2017 - 2020",
+            image: "../svpph.jpg"
+        },
     ],
 
     contact: {

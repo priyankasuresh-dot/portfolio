@@ -120,7 +120,7 @@ const info = {
             school: "Sri Basaveshwara Primary School,Halkurke ",
              degree: "Primary School",
              year: "2010 - 2016",
-            image: "../svpph.jpg"
+            image: "../basph.jpg"
         },
     ],
 

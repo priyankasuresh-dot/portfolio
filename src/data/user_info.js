@@ -116,6 +116,12 @@ const info = {
              year: "2017 - 2020",
             image: "../svpph.jpg"
         },
+        {
+            school: "Sri Basaveshwara Primary School,Halkurke ",
+             degree: "Primary School",
+             year: "2010 - 2016",
+            image: "../svpph.jpg"
+        },
     ],
 
     contact: {

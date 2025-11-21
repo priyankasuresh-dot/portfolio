@@ -3,7 +3,7 @@ const info = {
         name: "PRIYANKA H S",
         description: "Passionate Cybersecurity Analyst skilled in Computer Networking, Cloud Computing, Linux, Java, and Python. Focused on securing systems, analyzing vulnerabilities, and implementing effective protection strategies. Dedicated to continuous learning and applying innovative solutions to strengthen digital security and reliability.",
         role: "ASPIRING CYBERSECURITY ANALYST",
-        photo: "../image.jpg",
+        photo: "../Dp.jpg",
         email: "priyankah.suresh@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
     },

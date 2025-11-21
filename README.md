@@ -9,7 +9,7 @@
 
 ## Reference
 
-https://bitrapavankumar.netlify.app/
+https:// h s Priyanka Suresh.netlify.app/
 
 </center>
 
@@ -19,7 +19,7 @@ https://bitrapavankumar.netlify.app/
 ## Installation
 1. Clone the repository
     ```bash 
-    git clone https://github.com/srinivaspavan73/portfolio.git
+    git clone https://github.com/srinivas Priyanka73/portfolio.git
     ```
 2. Change into the project directory
     ```bash

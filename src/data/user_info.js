@@ -13,12 +13,12 @@ const info = {
     },
 
     socials: {
-        // twitter: "https://x.com/srinivaspavan73",
+        // twitter: "https://x.com/srinivas Priyanka73",
         github: "https://github.com/priyankasuresh-dot",
         linkedin: "https://www.linkedin.com/in/priyanka-h-s-35bbb6255",
         instagram: "https://instagram.com/priyanka__0417",
-        // facebook: "https://www.facebook.com/bitra.pavan.351",
-        // telegram: "https://telegram.me/srinivaspavan73"
+        // facebook: "https://www.facebook.com/ h s. Priyanka.351",
+        // telegram: "https://telegram.me/srinivas Priyanka73"
     },
 
     experience: [
